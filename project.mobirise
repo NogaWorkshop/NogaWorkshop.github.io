@@ -48,7 +48,6 @@
     "screenshot": "screenshot.png",
     "imageResize": true,
     "favicon": false,
-    "canonical-url": false,
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
